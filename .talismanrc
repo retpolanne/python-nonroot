@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .github/workflows/dockerhub-push.yml
+  checksum: 648f2b242a2539ad034111253ea860ccc809eacfa1b1e91fae4da36ef2d2acce
+version: ""
